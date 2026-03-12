@@ -28,7 +28,7 @@ A project focused on revolutionizing the way we tell stories through the power o
 * **Languages:** TypeScript, JavaScript
 * **Frontend & Mobile:** React, React Native
 * **AI & Data:** Prompt Engineering, LLM Orchestration, Generative AI Concepts
-* **Misc:** Concept Art, Narrative Design, Worldbuilding
+* **Misc:** Narrative Design, Worldbuilding
 
 ---
 
