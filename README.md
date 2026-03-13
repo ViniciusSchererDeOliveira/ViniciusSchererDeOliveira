@@ -20,6 +20,7 @@ A project focused on revolutionizing the way we tell stories through the power o
 
 #### 🔫 PULSE_RUNNER
 *"Escape will make me God."* 
+
 A text-based, LLM-driven extraction shooter inspired by the gritty, retro-futuristic aesthetic of games like Marathon. Built entirely with TypeScript to orchestrate complex AI models, allowing the system to dynamically generate the world and make subjective, real-time decisions based on player interaction.
 
 ---
