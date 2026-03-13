@@ -19,7 +19,8 @@ I am a developer deeply passionate about the intersection of software engineerin
 A project focused on revolutionizing the way we tell stories through the power of Artificial Intelligence. It explores new narrative boundaries, using AI not just as a tool, but as a core engine for creative, high-end storytelling and worldbuilding.
 
 #### 🔫 PULSE_RUNNER
-*"Escape will make me God."* A text-based, LLM-driven extraction shooter inspired by the gritty, retro-futuristic aesthetic of games like Marathon. Built entirely with TypeScript to orchestrate complex AI models, allowing the system to dynamically generate the world and make subjective, real-time decisions based on player interaction.
+*"Escape will make me God."* 
+A text-based, LLM-driven extraction shooter inspired by the gritty, retro-futuristic aesthetic of games like Marathon. Built entirely with TypeScript to orchestrate complex AI models, allowing the system to dynamically generate the world and make subjective, real-time decisions based on player interaction.
 
 ---
 
