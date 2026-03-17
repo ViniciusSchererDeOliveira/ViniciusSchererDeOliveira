@@ -22,9 +22,6 @@ I am a developer deeply passionate about the intersection of software engineerin
 * **Procedural Friction & Memory:** Driven by a rigorous "Tick" motor for time/space constraints, factual memory with Importance Scoring, and a "System Cardinal" that injects procedural events to prevent stagnation—including a *Deus ex Machina* "Professor" entity (inspired by *Blue Archive*) for crisis intervention. 
 * **Custom Stack:** Exclusively powered by highly specialized local LoRAs and synthetic datasets instead of generalist models.
 
-#### 🌌 THESTRGZR
-A hardware and AI startup project focused on creating luxury guitars featuring zirconia frets and an integrated, AI-powered system designed to achieve "True Intonation."
-
 #### 🔫 PULSE_RUNNER
 *"Escape will make me God."* A text-based, LLM-driven extraction shooter inspired by the gritty, retro-futuristic, and cyberpunk aesthetics of games like *Marathon*. Built entirely with TypeScript to orchestrate complex AI models, allowing the system to dynamically generate the world and make subjective, real-time decisions based on player interaction.
 
