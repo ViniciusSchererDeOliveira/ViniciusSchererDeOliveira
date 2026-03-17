@@ -25,9 +25,6 @@ I am a developer deeply passionate about the intersection of software engineerin
 #### 🔫 PULSE_RUNNER
 *"Escape will make me God."* A text-based, LLM-driven extraction shooter inspired by the gritty, retro-futuristic, and cyberpunk aesthetics of games like *Marathon*. Built entirely with TypeScript to orchestrate complex AI models, allowing the system to dynamically generate the world and make subjective, real-time decisions based on player interaction.
 
-#### 🎛️ PLASTIC_PULSE
-A proof-of-concept project focusing on a model and dataset architecture. Originally conceptualized with a TUI inspired by audio mixing consoles, it is currently being rewritten in **Python** and **Rust** to maximize performance and flexibility.
-
 ---
 
 ### 🛠️ Tech Stack & Tools
