@@ -8,7 +8,7 @@ I am a developer deeply passionate about the intersection of software engineerin
 
 * 🎓 Studying **Artificial Intelligence** at [Unisinos](https://www.unisinos.br/).
 * 💼 Currently working as a Software Engineer at **CWI Software**.
-* 💻 My primary stack revolves around **TypeScript**, building robust interfaces and apps with **React** and **React Native**, while also expanding my home lab infrastructure with a GPU cluster for AI development.
+* 💻 My primary stack revolves around **TypeScript**, building robust interfaces and apps with **React** and **React Native**.
 * 🎸 When I'm not coding, you can probably find me playing my Ibanez, listening to J-Pop (especially artists like milet and Aimer), Metalcore, or drafting new concepts for worldbuilding.
 
 ---
