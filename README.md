@@ -17,9 +17,9 @@ I am a developer deeply passionate about the intersection of software engineerin
 
 #### 🏙️ Project UtopiA *(Closed Source) @ THESTRGZR*
 *An autonomous simulation ecosystem and advanced testbed for AI reasoning, ethics, and multi-agent interaction.* Built with **TypeScript** and inspired by the *Smallville* architecture, this simulation operates as a fictional worldbuilding engine set in a "City-Academy." It moves away from standard prompts and utilizes rigid TTRPG mechanics adapted from the **Aeonisk** framework and **YAGS** engine. 
-* **Quantified Ethics:** Agents navigate complex social scenarios where their actions impact a global "Dystopia" meter, personal Soulcredits, and Bonds. Evolution is empirical, shifting along 7 moral axes rather than traditional stat point buys.
+* **Quantified Ethics:** Agents navigate complex social scenarios where their actions impact a global "Dystopia" meter, personal Popularity, and Bonds. Evolution is empirical, shifting along 7 moral axes rather than the traditional stat point buys of YAGS.
 * **Counterfactual Resolution:** Actions are processed by a specialized "Judge" model that generates 6-tier counterfactual scenarios via Chain-of-Thought before canonizing a subjective resolution.
-* **Procedural Friction & Memory:** Driven by a rigorous "Tick" motor for time/space constraints, factual memory with Importance Scoring, and a "System Cardinal" that injects procedural events to prevent stagnation—including a *Deus ex Machina* "Professor" entity (inspired by *Blue Archive*) for crisis intervention. 
+* **Procedural Friction & Memory:** Driven by a rigorous "Tick" engine for time/space constraints, factual memory with Importance Scoring, and a "System Cardinal" that injects procedural events to prevent stagnation—including a *Deus ex Machina* "Professor" entity (inspired by *Blue Archive*) for crisis intervention. 
 * **Custom Stack:** Exclusively powered by highly specialized local LoRAs and synthetic datasets instead of generalist models.
 
 #### 🔫 PULSE_RUNNER
@@ -38,5 +38,5 @@ I am a developer deeply passionate about the intersection of software engineerin
 
 ### 📫 Let's Connect
 
-* [LinkedIn] www.linkedin.com/in/viniciusschererdeoliveira
-* [Email] vinicius.oliveira@thestrgzr.com
+* [LinkedIn](https://www.linkedin.com/in/viniciusschererdeoliveira)
+* [Email](mailto:vinicius.oliveira@thestrgzr.com)
