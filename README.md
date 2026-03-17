@@ -15,7 +15,7 @@ I am a developer deeply passionate about the intersection of software engineerin
 
 ### 🚀 Featured Projects
 
-#### 🏙️ Project UtopiA *(Closed Source)*
+#### 🏙️ Project UtopiA *(Closed Source) @ THESTRGZR*
 *An autonomous simulation ecosystem and advanced testbed for AI reasoning, ethics, and multi-agent interaction.* Built with **TypeScript** and inspired by the *Smallville* architecture, this simulation operates as a fictional worldbuilding engine set in a "City-Academy." It moves away from standard prompts and utilizes rigid TTRPG mechanics adapted from the **Aeonisk** framework and **YAGS** engine. 
 * **Quantified Ethics:** Agents navigate complex social scenarios where their actions impact a global "Dystopia" meter, personal Soulcredits, and Bonds. Evolution is empirical, shifting along 7 moral axes rather than traditional stat point buys.
 * **Counterfactual Resolution:** Actions are processed by a specialized "Judge" model that generates 6-tier counterfactual scenarios via Chain-of-Thought before canonizing a subjective resolution.
