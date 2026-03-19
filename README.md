@@ -17,20 +17,22 @@ I am a developer deeply passionate about the intersection of software engineerin
 ### 🚀 Featured Projects
 
 #### 🌌 ASTERISM - Data Forge CLI *@ THESTRGZR*
-*A high-performance, lightweight (sub-1MB binary) synthetic data forge and LLM orchestrator.* Built with **TypeScript** and **Bun**, ASTERISM is designed to be the "industrial furnace" for fine-tuning datasets. It enables complex "Teacher-Student" training workflows by orchestrating multiple LLM providers and local scripts in a deterministic DAG.
+*A high-performance, agnostic "industrial furnace" for synthetic data and LLM orchestration.* Built with **TypeScript** and **Bun**, ASTERISM is a lightweight tool designed to bridge the gap between frontier models and edge AI.
+
+* **Teacher-Student Pipeline:** Specifically engineered to leverage massive LLM APIs (Teachers) to generate high-quality synthetic datasets used to train smaller, specialized models (Students).
+* **Fine-Tuning & LoRA Forge:** Optimized for creating structured datasets for both **LoRA** adapters and **Full Fine-Tuning**, enabling the distillation of complex reasoning into compact weights.
+* **Edge & Domain Focus:** Within the **THESTRGZR** ecosystem, it powers the creation of domain-specific models and "Home-AI" solutions—specializing in edge-ready models (**<14B parameters**) for private, high-speed domestic use.
+* **Multi-Runtime Orchestration:** Seamlessly spawns and manages **Python** and **Node.js** sub-processes via `stdin/stdout`, keeping the core engine deterministic and lightning-fast.
 * **Portable Efficiency:** Distributed as a zero-dependency portable binary for **macOS** and **Linux**.
-* **Multi-Runtime Orchestration:** Seamlessly spawns and manages **Python** and **Node.js** sub-processes to transform state via `stdin/stdout`, keeping the core engine lean and fast.
-* **State-Passing DAG:** Features a robust manifest-driven engine (YAML) that handles variable permutation, mathematical distributions (Gaussian/Poisson), and complex state passing between steps.
-* **Sovereign Data:** Built to power the fine-tuning of specialized local models, moving away from generalist API dependency.
 
 #### 🏙️ Project UtopiA *(Closed Source) @ THESTRGZR*
-*An autonomous simulation ecosystem and advanced testbed for AI reasoning, ethics, and multi-agent interaction.* Operationally powered by **ASTERISM**-generated datasets, this simulation operates as a fictional worldbuilding engine set in a "City-Academy."
-* **Quantified Ethics:** Agents navigate complex social scenarios where their actions impact moral axes rather than traditional stats.
-* **Counterfactual Resolution:** Processes actions through a "Judge" model that generates 6-tier counterfactual scenarios before canonizing a resolution.
-* **Procedural Friction:** Driven by a rigorous "Tick" engine, importance-scored memory, and a "System Cardinal" for crisis intervention.
+*An autonomous simulation ecosystem and advanced testbed for AI reasoning, ethics, and multi-agent interaction.* Operationally powered by **ASTERISM**-distilled datasets, this engine simulates a fictional "City-Academy" environment.
+* **Quantified Ethics:** Agents navigate social scenarios where actions impact moral axes rather than traditional TTRPG stats.
+* **Counterfactual Resolution:** Actions are processed by a "Judge" model generating 6-tier counterfactual scenarios via Chain-of-Thought.
+* **Procedural Friction:** Driven by a rigorous "Tick" engine for time/space constraints and factual memory with Importance Scoring.
 
 #### 🔫 PULSE_RUNNER
-*"Escape will make me God."* A text-based, LLM-driven extraction shooter inspired by the gritty aesthetics of *Marathon*. It orchestrates complex AI models to dynamically generate world-states and make subjective, real-time decisions based on player interaction.
+*"Escape will make me God."* A text-based, LLM-driven extraction shooter inspired by the gritty aesthetics of *Marathon*. Built to orchestrate complex AI models for real-time, subjective world-state generation.
 
 ---
 
@@ -38,8 +40,8 @@ I am a developer deeply passionate about the intersection of software engineerin
 
 * **Languages:** TypeScript, JavaScript, Python, Rust
 * **Runtime & Bundling:** Bun (Native compilation & fast I/O)
+* **AI & ML:** LLM Orchestration (ASTERISM), Synthetic Data Forge, Teacher-Student Distillation, Local Fine-Tuning (LoRAs/SFT)
 * **Frontend & Mobile:** React, React Native
-* **AI & Data:** LLM Orchestration (ASTERISM), Prompt Engineering, Synthetic Data Generation, Local Model Fine-Tuning (LoRAs)
 * **Misc:** Narrative Design, Worldbuilding, TTRPG Mechanics (Aeonisk/YAGS)
 
 ---
