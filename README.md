@@ -25,7 +25,7 @@ I am a developer deeply passionate about the intersection of software engineerin
 * **Multi-Runtime Orchestration:** Seamlessly spawns and manages **Python** and **Node.js** sub-processes via `stdin/stdout`, keeping the core engine deterministic and lightning-fast.
 * **Portable Efficiency:** Distributed as a zero-dependency portable binary for **macOS** and **Linux**.
 
-#### 🏙️ Project UtopiA *(Closed Source) @ THESTRGZR*
+#### 🏙️ Project UtopiA *(Closed Source)*
 *An autonomous simulation ecosystem and advanced testbed for AI reasoning, ethics, and multi-agent interaction.* Operationally powered by **ASTERISM**-distilled datasets, this engine simulates a fictional "City-Academy" environment.
 * **Quantified Ethics:** Agents navigate social scenarios where actions impact moral axes rather than traditional TTRPG stats.
 * **Counterfactual Resolution:** Actions are processed by a "Judge" model generating 6-tier counterfactual scenarios via Chain-of-Thought.
