@@ -25,14 +25,18 @@ I am a developer deeply passionate about the intersection of software engineerin
 * **Multi-Runtime Orchestration:** Seamlessly spawns and manages **Python** and **Node.js** sub-processes via `stdin/stdout`, keeping the core engine deterministic and lightning-fast.
 * **Portable Efficiency:** Distributed as a zero-dependency portable binary for **macOS** and **Linux**.
 
-#### 🏙️ Project UtopiA *(Closed Source)*
-*An autonomous simulation ecosystem and advanced testbed for AI reasoning, ethics, and multi-agent interaction.* Operationally powered by **ASTERISM**-distilled datasets, this engine simulates a fictional "City-Academy" environment.
-* **Quantified Ethics:** Agents navigate social scenarios where actions impact moral axes rather than traditional TTRPG stats.
-* **Counterfactual Resolution:** Actions are processed by a "Judge" model generating 6-tier counterfactual scenarios via Chain-of-Thought.
-* **Procedural Friction:** Driven by a rigorous "Tick" engine for time/space constraints and factual memory with Importance Scoring.
+#### 🏙️ Project UtopiA
+*An autonomous simulation ecosystem and high-fidelity testbed for AI reasoning, ethics, and multi-agent interaction.* Operationally powered by **ASTERISM**-distilled datasets, this engine simulates the massive "City-Academy" of **Kivotos** (Blue Archive).
+
+* **High-Reasoning Judge (14B):** Actions are processed by a specialized **14B parameter model** acting as a "Local Judge." It utilizes **YAGS** (6-tier outcomes) and **Chain-of-Thought** to canonize world-state changes and resolve complex social/tactical paradoxes in real-time.
+* **Quantified Ethics & Aeonisk:** Agents navigate a world where actions impact **Soulcredit** (Reputation) and the **Dystopia Meter**, replacing traditional binary success/fail stats with dynamic moral axes and political consequences.
+* **Hybrid Actor Architecture (LoRA + RAG):** Employs a singular, high-performance "Actor" LoRA for behavioral consistency and "Kivotos-tone" alignment, while a **dual-Vector DB system** (Lore & Episodic Memory) manages the distinct identities and histories of dozens of concurrent students.
+* **Procedural Friction & Information Asymmetry:** Driven by a rigorous **TypeScript "Tick" engine** that enforces time/space constraints, factual memory with **Importance Scoring**, and gossip propagation via **Momotalk** to simulate a living, breathing social fabric.
 
 #### 🔫 PULSE_RUNNER
-*"Escape will make me God."* A text-based, LLM-driven extraction shooter inspired by the gritty aesthetics of *Marathon*. Built to orchestrate complex AI models for real-time, subjective world-state generation.
+*"Escape will make me God."* 
+
+A text-based, LLM-driven extraction shooter inspired by the gritty aesthetics of *Marathon*. Built to orchestrate complex AI models for real-time, subjective world-state generation.
 
 ---
 
