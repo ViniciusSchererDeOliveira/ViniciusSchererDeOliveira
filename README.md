@@ -1,39 +1,52 @@
-# Hi there, I'm Vinicius! 👋
+![Abstract celestial systems map combining state graphs, guitar geometry, and fictional-world cartography](docs/assets/readme/profile-banner.png)
 
-**Software Engineer | Independent AI Student | Worldbuilder**
+<h1 align="center">Vinicius Scherer de Oliveira</h1>
 
-I am a developer deeply passionate about the intersection of software engineering and Artificial Intelligence. Currently, my main focus is on building high-performance AI infrastructure, specializing in agentic research systems, classical ML model training, and LLM fine-tuning. Beyond the code, I am fascinated by the art of worldbuilding, creating expansive fictional worlds both to serve as foundations for deep narratives and simply for the sheer joy of crafting them.
+<p align="center">
+  Software engineer building local-first AI systems, deterministic simulations,<br />
+  and creative tools for music and fictional worlds.
+</p>
 
-### 👨‍💻 About Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/viniciusschererdeoliveira">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:contact@vscherer.me">contact@vscherer.me</a>
+</p>
 
-* 💼 Currently working as a Software Engineer at **CWI Software**.
-* 💻 My primary stack revolves around **TypeScript** and **Go**, building robust applications with **React**, **React Native**, **NestJS**, and **Flutter**.
-* 🚀 Building the infrastructure for **THESTRGZR** and **Asterism**.
-* 🎸 When I'm not coding, you can probably find me playing my Ibanez, listening to J-Pop (especially artists like milet and Aimer), Metalcore, or drafting new concepts for fictional worlds.
+## About
+
+I am a Software Engineer at **CWI Software** with experience across mobile, web, and backend development. My current work involves Flutter, React, and NestJS in a mix of new product development and gradual legacy modernization. Outside my day job, I explore the boundary between dependable software engineering and applied AI: systems where model behavior is observable, world state is reproducible, and creative tools remain useful without hiding their decisions.
+
+My independent work brings together AI experimentation, simulation, music, and worldbuilding.
+
+## Current work
+
+| Project | What I am exploring | Stage |
+| --- | --- | --- |
+| **Asterism Polyphony** | A reproducible atlas of playable all-fourths guitar voicings, with explicit constraints and explainable ranking. | Preparing a public release |
+| **Project UtopiA** | A multi-agent fictional-world simulation where deterministic mechanics own state and language models provide cognition and narrative. | Active development |
+| **Asterism J-Lens** | Projected-Jacobian experiments for making language-model behavior cheaper to inspect and compare. | Active research |
+| **Alice** | A local-first personal AI system that brings tools, context, and multimodal interaction into one maintainable architecture. | Consolidating foundations |
+
+Projects become links here only when their code, documentation, and provenance are ready to represent the work publicly.
+
+## How I build
+
+- **Local-first when practical.** Core workflows should remain inspectable, portable, and useful without depending on a hosted black box.
+- **Deterministic at the core.** Models may interpret and advise; explicit systems own state, policy, and replay.
+- **Evidence before claims.** Benchmarks, artifacts, and failure cases matter more than impressive-sounding numbers.
+- **Documentation as part of the system.** Architecture, operational boundaries, and validation paths evolve with the code.
+
+## Toolbox
+
+- **Languages:** TypeScript, JavaScript, Go, Python
+- **Interfaces and services:** React, React Native, NestJS, Flutter
+- **AI and systems:** model evaluation, agent orchestration, classical ML, local inference experiments
+
+When I am away from code, I am usually playing guitar, listening to J-Pop or metalcore, or designing fictional worlds and their underlying systems.
 
 ---
 
-### 🚀 Featured Projects
-
-#### 🧠 Alice - WIP
-A custom-built, multi-agent harness designed from scratch to handle advanced conversational workflows and streamline personal organization.
-
-#### 🎸 Polyphony - WIP
-A software project focused on guitar learning, designed to create a more efficient and structured educational experience for guitarists.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-* **Languages:** TypeScript, JavaScript, Python, Go
-* **Frameworks & Libraries:** React, React Native, NestJS, Flutter
-* **AI & ML:** Agentic Research Systems, Classical ML Training, LLM Fine-Tuning (LoRAs/SFT), Model Orchestration
-* **Misc:** Fictional Worldbuilding, TTRPG Mechanics
-
----
-
-### 📫 Let's Connect
-
-* [LinkedIn](https://www.linkedin.com/in/viniciusschererdeoliveira)
-* [Instagram](https://www.instagram.com/ViniciusSchererDeOliveira)
-* [Email](mailto:vinicius.oliveira@thestrgzr.com)
+<p align="center">
+  <a href="mailto:contact@vscherer.me">contact@vscherer.me</a>
+</p>
